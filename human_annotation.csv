@@ -1,6 +1,0 @@
-text_id,text_content,annotator_id,assigned_label,confidence_score,notes
-101,The customer service was absolutely fantastic and helpful.,A01,Positive,0.95,Very enthusiastic review
-102,I waited for two hours and nobody showed up. Terrible experience.,A02,Negative,1.0,Clear service failure
-103,"The package arrived on time, but the box was slightly damaged.",A01,Neutral,0.8,Minor cosmetic issue
-104,"It works as expected, nothing special but gets the job done.",A03,Neutral,0.85,Standard performance
-105,Extremely disappointed with the quality. Will be returning it immediately.,A02,Negative,0.9,Defective product
